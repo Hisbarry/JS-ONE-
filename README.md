@@ -101,17 +101,7 @@
 
     <!-- JavaScript files -->
     <script src="script.js">
-    /* Global Styles */
-
-* {
-    box-sizing: border-box;
-    margin:
-  </script>
-</body>
-</html>
-
-
-<head>
+    <head>
     <link rel="stylesheet" href="styles.css">
     // script.js
 import styled from 'styled-components';
@@ -154,3 +144,9 @@ heroSection.appendChild(scrollDownButton);
 
 document.body.appendChild(heroSection);
 </head>
+
+  </script>
+</body>
+</html>
+
+
